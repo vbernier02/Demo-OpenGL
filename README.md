@@ -12,3 +12,5 @@ Implémentation :
 • Eclairage avec shader et ombre sur des modèles en mouvement
 
 • Son d’ambiance
+
+[Capture vidéo du 04-12-2025 17:46:24.webm](https://github.com/user-attachments/assets/1964f1e0-d404-4d1d-ad8b-dbddabed0ac4)
